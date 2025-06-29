@@ -50,7 +50,7 @@ A MATLAB project to estimate the **State of Charge (SOC)** of a lithium-ion batt
 
 **Arunesh E** — Final Year EEE Student @ SASTRA  
 Interested in EV systems & control modeling  
-[LinkedIn](#) *[((https://www.linkedin.com/in/arunesh33/)]*
+[LinkedIn](https://www.linkedin.com/in/arunesh33/)
 
 
 ---
