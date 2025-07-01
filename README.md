@@ -31,8 +31,7 @@ A MATLAB project to estimate the **State of Charge (SOC)** of a lithium-ion batt
 
 ## Key Files
 
-- `EKF_SOC_Estimation.m` — Main script  
-- `EKF_function.m` — EKF logic  
+- `SOC_Estimation_by_EKF_method.m` — Main script  
 - `BatteryModel.mat` & `SOC-OCV.mat` — Battery data  
 - `Battery_datapoint.mat` — Input dataset
 
