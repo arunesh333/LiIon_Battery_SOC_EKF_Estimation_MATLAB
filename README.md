@@ -25,7 +25,7 @@ A MATLAB project to estimate the **State of Charge (SOC)** of a lithium-ion batt
 
 - MATLAB
 - Real EV battery dataset (`.mat`)
-- Parameter interpolation using `scatteredInterpolant`
+- Parameter interpolation using `scatteredInterpolant()`
 
 ---
 
